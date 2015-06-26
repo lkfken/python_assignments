@@ -28,5 +28,3 @@ for line in fh:
 
 # the float number is displayed with 12 digits after the decimal
 print "Average spam confidence: {0:.12f}".format(sum/count)
-
-
