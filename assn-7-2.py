@@ -25,6 +25,8 @@ for line in fh:
     str_num = line[pos + 1:]
     num = float(str_num)
     sum += num
+
+# the float number is displayed with 12 digits after the decimal
 print "Average spam confidence: {0:.12f}".format(sum/count)
 
 
