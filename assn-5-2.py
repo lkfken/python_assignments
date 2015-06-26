@@ -6,6 +6,11 @@ __author__ = 'kleung'
 # put out an appropriate message and ignore the number.
 # input: [4, 5, 'bad data', 7, 'done']
 
+# from this assignment, I learn
+# 1. how to sort an array
+# 2. how to append an element to an array
+# 3. how to get an element from an array
+
 list = []
 
 while True:
